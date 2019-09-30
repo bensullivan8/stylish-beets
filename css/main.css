@@ -18,7 +18,7 @@ li a {
   color: #8f2440;
   font-size: 1.125rem;
   text-decoration: none;
-  list-style-type: "PT serif", serif;
+  list-style-type: "PT serif";
 }
 
 a:hover {
