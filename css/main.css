@@ -12,6 +12,11 @@ h1 {
 li + a {
   color: #8f2440;
   font-size: 1.125rem;
+  text-decoration: none;
+}
+
+li + a:hover {
+  color: #3f1622;
 }
 
 h2 {
