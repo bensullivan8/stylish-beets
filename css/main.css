@@ -19,6 +19,11 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
 footer a:hover {
   color: #3f1622;
   text-decoration: underline;
@@ -47,6 +52,6 @@ figcaption {
   text-align: center;
 }
 
-ul li {
+h2 ul li {
   list-style-type: lower-greek;
 }
