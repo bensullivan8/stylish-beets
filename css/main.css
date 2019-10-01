@@ -48,7 +48,7 @@ h2 {
 
 figcaption {
   font-style: italic;
-  font-size: 1.125rem;
+  font-size: 0.8rem;
   text-align: center;
 }
 
@@ -70,4 +70,10 @@ data {
 
 .intro {
   font-weight: normal;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  text-align: center;
+  font-style: italic;
 }
