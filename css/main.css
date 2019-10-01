@@ -44,6 +44,8 @@ nav a:hover {
 
 h2 {
   color: #3f1622;
+  font-family: "PT sans", sans-serif;
+  font-weight: bold;
 }
 
 figcaption {
@@ -52,7 +54,7 @@ figcaption {
   text-align: center;
 }
 
-h2 ul li {
+ul li {
   list-style-type: lower-greek;
 }
 
@@ -76,4 +78,8 @@ blockquote {
   font-size: 1.5rem;
   text-align: center;
   font-style: italic;
+}
+
+cite {
+  font-size: .8rem;
 }
