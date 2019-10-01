@@ -55,12 +55,13 @@ figcaption {
   text-align: center;
 }
 
-ul li {
+header ul li {
   list-style-type: lower-greek;
 }
 
 dd {
   font-weight: bold;
+  text-align: left;
 }
 
 data {
@@ -83,4 +84,12 @@ blockquote {
 
 cite {
   font-size: .8rem;
+}
+
+ol li {
+  list-style-type: none;
+}
+
+aside ul li {
+  list-style-type: circle;
 }
