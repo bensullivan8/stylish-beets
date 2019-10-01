@@ -51,7 +51,7 @@ h2 {
 
 figcaption {
   font-style: oblique;
-  font-size: 1rem;
+  font-size: 1.1rem;
   text-align: center;
   font-family: serif;
 }
@@ -60,7 +60,7 @@ header ul li {
   list-style-type: lower-greek;
 }
 
-dd {
+header dd {
   font-weight: bold;
   text-align: left;
 }
@@ -84,7 +84,7 @@ data {
 }
 
 blockquote {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   text-align: justify;
   font-style: oblique;
 }
