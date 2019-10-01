@@ -26,7 +26,7 @@ li a {
   list-style-type: "PT serif";
 }
 
-a:hover {
+nav:hover {
   color: #3f1622;
   text-decoration: underline;
 }
