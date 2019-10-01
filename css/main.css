@@ -50,9 +50,10 @@ h2 {
 }
 
 figcaption {
-  font-style: italic;
+  font-style: oblique;
   font-size: 1rem;
   text-align: center;
+  font-family: serif;
 }
 
 header ul li {
