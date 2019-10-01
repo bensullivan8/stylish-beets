@@ -97,4 +97,13 @@ ol li {
 
 aside ul li {
   list-style-type: circle;
+  font-size: .8rem;
+}
+
+dd p {
+  text-align: left;
+}
+
+dd data {
+  text-align: justify;
 }
