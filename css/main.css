@@ -63,3 +63,11 @@ dd {
 data {
   font-weight: normal;
 }
+
+.bolded {
+  font-weight: bold;
+}
+
+.intro {
+  font-weight: normal;
+}
