@@ -19,18 +19,30 @@ a {
   text-decoration: none;
 }
 
+footer a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
 li a {
   color: #8f2440;
   font-size: 1.125rem;
   text-decoration: none;
-  list-style-type: "PT serif";
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
 }
 
-nav:hover {
+nav a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
 
 h2 {
   color: #3f1622;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 1.125rem;
+  text-align: center;
 }
