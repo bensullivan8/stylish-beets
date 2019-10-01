@@ -64,8 +64,13 @@ dd {
   text-align: left;
 }
 
+dt {
+  font-style: italic;
+}
+
 data {
   font-weight: normal;
+  text-align: justify;
 }
 
 .bolded {
